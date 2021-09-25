@@ -9,7 +9,6 @@
   How to use office soft,
   How to think the information.
 
-　Produced by umamugi.
-  https://note.com/keibayosou_uma
-  or
-  https://twitter.com/BOT_KEIBAYOSOU
+Produced by umamugi.
+  　https://note.com/keibayosou_uma
+  　https://twitter.com/BOT_KEIBAYOSOU

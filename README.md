@@ -10,6 +10,7 @@
   How to think the information technology.
 
 Produced by umamugi.
+
     note is as below:
     https://note.com/keibayosou_uma
     https://note.com/kyoteiyosou_boat

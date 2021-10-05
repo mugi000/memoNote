@@ -1,11 +1,10 @@
 # memoNote
-Produced by umamugi.
-publish document is in note.com .
+
+　Produced by umamugi.
+
+　publish document is in note.com
 
 1. Report about UMA Server and FUNE Server issues.
-  How to do,
-  How did you do?
-  What's builds up system of UMAServer and FUNEServer.
 
 2. Toooo Easy knowledge to use computer software.(note_uma)
   How to use keyboard,

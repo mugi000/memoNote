@@ -1,5 +1,6 @@
 # memoNote
 Produced by umamugi.
+publish document is in note.com .
 
 1. Report about UMA Server and FUNE Server issues.
   How to do,

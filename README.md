@@ -18,6 +18,5 @@ Produced by umamugi.
     
     Twitter is as below:
     
-    https://twitter.com/BOT_KEIBAYOSOU  or  
-    https://twitter.com/BOT_KYOTEIYOSOU
+    https://twitter.com/BOT_KEIBAYOSOU
     

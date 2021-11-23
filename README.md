@@ -6,10 +6,7 @@
 
 1. Report about UMA Server and FUNE Server issues.
 
-2. Toooo Easy knowledge to use computer software.(note_uma)
-  How to use keyboard,
-  How to use office soft,
-  How to think the information technology.
+2. Something else.
 
     note is as below:
     

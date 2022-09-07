@@ -15,5 +15,5 @@
     
     Twitter is as below:
     
-    https://twitter.com/BOT_KEIBAYOSOU
+    https://twitter.com/umamugi_bot
     

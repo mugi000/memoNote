@@ -13,7 +13,4 @@
     https://note.com/keibayosou_uma  or  
     https://note.com/kyoteiyosou_boat
     
-    Twitter is as below:
-    
-    https://twitter.com/umamugi_bot
     

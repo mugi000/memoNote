@@ -1,6 +1,6 @@
 # memoNote
 
-　Produced by umamugi.
+　Produced by mugi.
 
 　publish document is in note.com
 
@@ -12,5 +12,3 @@
     
     https://note.com/keibayosou_uma  or  
     https://note.com/kyoteiyosou_boat
-    
-    
